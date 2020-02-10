@@ -1,0 +1,4 @@
+﻿  p2.cpp
+e:\informatique\euler\p2\p2\p2.cpp(26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\informatique\euler\p2\p2\p2.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  p2.vcxproj -> E:\Informatique\EULER\p2\Debug\p2.exe
